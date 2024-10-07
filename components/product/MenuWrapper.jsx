@@ -123,7 +123,7 @@ const MenuWrapper = ({ categoryList, productList }) => {
               <br />
             </>
           ) : (
-            <div className="-mt-96 font-extralight uppercase text-6xl text-black">
+            <div className="-mt-96 font-extralight uppercase text-6xl text-black mb-8">
               MENU SELECTION
             </div>
           )}
